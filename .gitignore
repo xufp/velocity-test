@@ -1,0 +1,14 @@
+.settings/
+target/
+.classpath
+.project
+*.log
+*.log.*
+/*/.gitignore
+*.log*
+.DS_Store
+.idea/
+*.iml
+/bin/
+*/bin
+/package.sh
